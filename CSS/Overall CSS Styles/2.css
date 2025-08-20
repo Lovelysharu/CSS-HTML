@@ -1,0 +1,44 @@
+h1{
+background-color: rgb(0, 0, 0);
+color: yellow;
+text-align: center;
+text-shadow:2px 2px  rgb(238, 37, 37) ;
+border: double;
+padding: 10px;
+}
+.one{
+text-align: center;
+text-transform: uppercase;
+}
+.con{
+text-align: center;
+margin: 20px;
+border: dotted;
+width:400px ;
+}
+.two{
+text-transform: uppercase;
+text-decoration: underline;
+}
+.three{
+border: groove black;
+border-width: 8px;
+width: 500px;
+outline: solid rgb(62, 207, 226);
+outline-width: 5px;
+text-shadow: 2px 2px 1px rgb(209, 200, 116);
+border-radius: 10px;
+font-size: large;
+}
+.f{
+text-decoration: line-through;
+}
+footer{
+text-align: center;
+background-color: rgb(0, 0, 0);
+color: rgb(240, 240, 240);
+bottom: 0;
+padding: 10px;
+position: fixed;
+width: 100%;
+}

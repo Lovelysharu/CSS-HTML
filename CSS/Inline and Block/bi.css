@@ -1,0 +1,39 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+h1{
+    background-color: black;
+    color: burlywood;
+    display: inline;
+}
+h2{
+    display: block;
+    background-color: black;
+}
+.header {
+    padding: 50px;
+    color: rgb(218, 218, 104);
+    justify-content: space-between;
+    text-align: center;
+    position: relative;
+}
+.con{
+    padding:20px;
+    text-align: center;
+    border: double black;
+    position: absolute;
+    display: inline;
+    margin: 40px;
+}
+.ct{
+    border: dotted black ;
+    margin: 30px;
+    padding: 10px;
+    display: block;
+}
+h2 {
+position: absolute;
+margin:100px;
+color: white;
+}
